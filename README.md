@@ -5,13 +5,13 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-👨‍💻 Full Stack Developer with experience in Laravel and React, passionate about building modern, scalable, and functional web solutions.
-💡 I enjoy solving complex problems and turning ideas into useful digital products.
-🎓 Background in Systems Engineering and continuous learning through specialized courses.
-🌱 Currently expanding my skills in DevOps and software architecture.
-✍️ I love documenting processes and sharing knowledge with the tech community.
-💬 Open to collaborations, freelance projects, and teamwork.
-✉️ Let’s connect! Reach me at: rolando.jp113@gmail.com
+👨‍💻 &nbsp;Full Stack Developer with experience in Laravel and React, passionate about building modern, scalable, and functional web solutions.\
+💡 &nbsp;I enjoy solving complex problems and turning ideas into useful digital products.\
+🎓 &nbsp;Background in Systems Engineering and continuous learning through specialized courses.\
+🌱 &nbsp;Currently expanding my skills in DevOps and software architecture.\
+✍️ &nbsp;I love documenting processes and sharing knowledge with the tech community.\
+💬 &nbsp;Open to collaborations, freelance projects, and teamwork.\
+✉️ &nbsp;Let’s connect! Reach me at: rolando.jp113@gmail.com\
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
