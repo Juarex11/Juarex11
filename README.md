@@ -72,12 +72,23 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/rolando.juarez.75286100/" target="_blank">
+    <img src="https://img.shields.io/badge/-Rolando%20Juarez-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/rola_ismaheljp/" target="_blank">
+    <img src="https://img.shields.io/badge/-rola_ismaheljp-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rolando-ismahel-juarez-polo-872844343/" target="_blank">
+    <img src="https://img.shields.io/badge/-Rolando%20Juarez-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rolando.jp113@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-rolando.jp113@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+51981031225" target="_blank">
+    <img src="https://img.shields.io/badge/-+51%20981031225-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
+
 
 ### 🐍 &nbsp;That's How Commits move ...
 
