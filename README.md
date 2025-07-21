@@ -11,7 +11,7 @@
 🌱 &nbsp;Currently expanding my skills in DevOps and software architecture.\
 ✍️ &nbsp;I love documenting processes and sharing knowledge with the tech community.\
 💬 &nbsp;Open to collaborations, freelance projects, and teamwork.\
-✉️ &nbsp;Let’s connect! Reach me at: rolando.jp113@gmail.com\
+✉️ &nbsp;Let’s connect! Reach me at: rolando.jp113@gmail.com
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
