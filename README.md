@@ -72,22 +72,21 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.facebook.com/rolando.juarez.75286100/" target="_blank">
-    <img src="https://img.shields.io/badge/-Rolando%20Juarez-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+  <a href="https://www.facebook.com/rolando.juarez.75286100/">
+    <img src="https://img.shields.io/badge/-Rolando%20Juarez-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/rola_ismaheljp/" target="_blank">
-    <img src="https://img.shields.io/badge/-rola_ismaheljp-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/rola_ismaheljp/">
+    <img src="https://img.shields.io/badge/-@rola_ismaheljp-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rolando-ismahel-juarez-polo-872844343/" target="_blank">
-    <img src="https://img.shields.io/badge/-Rolando%20Juarez-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  <a href="mailto:rolando.jp113@gmail.com">
+    <img src="https://img.shields.io/badge/-rolando.jp113@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:rolando.jp113@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-rolando.jp113@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/rolando-ismahel-juarez-polo-872844343/">
+    <img src="https://img.shields.io/badge/-Rolando%20Juarez-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="tel:+51981031225" target="_blank">
-    <img src="https://img.shields.io/badge/-+51%20981031225-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/-+51%20981031225-25D366?style=flat&logo=whatsapp&logoColor=white"/>
 </p>
+
 
 
 ### 🐍 &nbsp;That's How Commits move ...
