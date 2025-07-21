@@ -63,7 +63,7 @@
     <img height="180em" src="https://github.com/Juarex11/Juarex11/blob/main/estado.svg"/>
   </a>
   <a href="https://github.com/Juarex11/">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github.com/Juarex11/Juarex11/blob/main/estado2.svg"/>
   </a>
 </p>
 
